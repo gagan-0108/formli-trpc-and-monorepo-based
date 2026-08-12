@@ -1,0 +1,1 @@
+ALTER TABLE "themes" ADD COLUMN "background_image" text;

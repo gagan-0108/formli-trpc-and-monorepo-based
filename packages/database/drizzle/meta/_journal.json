@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1767592965691,
+      "tag": "0000_dusty_morg",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1779482972224,
+      "tag": "0001_silent_garia",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1779554370137,
+      "tag": "0002_married_purple_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1779812738777,
+      "tag": "0003_chubby_red_ghost",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1779814192090,
+      "tag": "0004_same_stone_men",
+      "breakpoints": true
+    }
+  ]
+}
